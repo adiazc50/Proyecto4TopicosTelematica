@@ -2,7 +2,7 @@
 
 **REALIZADO POR:  ALEJANDRO DIAZ CANO
 
-**PROBLEMA: 
+*PROBLEMA:* 
 
 Uno de los inconvenientes mas grandes que tenemos en la actualidad es la seguridad de los datos, para ello se a recurrido a múltiples algoritmos que se usan para cifrar palabras, documentos y archivos con la finalidad de mantener la integridad de los datos de la manera mas segura posible entre un emisor y un remitente.
 En este proyecto buscamos crear un cifrador de palabras o textos usado antiguamente y reconocido como “el cifrado de cesar”. con el cual buscamos con un mensaje inicial obtener un mensaje final seguro, que alguien sin la clave no va a lograr leerlo o descífralo fácilmente.
