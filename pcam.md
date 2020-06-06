@@ -23,7 +23,7 @@ T3-> Regresar letra por otra en base a la clave almacenando el valor en una nuev
 T4->Avanzar a la siguiente letra
 T5-> Regresar a la T3 hasta que se termine la palabra
 
-*COMUNICACIÓN: *
+*COMUNICACIÓN:*
 
 Todas las tareas vienen dadas por la palabra que ingrese, esta palabra que ingresa entra a la T1, la tarea uno lo que hace es que empieza a recorrer la frase letra a letra(T2) y empieza a reemplazar esa letra por una cantidad de letras que se encuentran adelante o atrás dependiendo del valor de la clave del cifrado(T3), Avanza a la siguiente letra(T4) y volvemos a la T3 hasta terminar la palabra. 
 
